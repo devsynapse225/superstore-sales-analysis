@@ -48,14 +48,4 @@ This dataset contains sales records with fields like:
 3. Run the cells in sequence.
 4. Ensure the CSV file is in the same folder as the notebook.
 
----
 
-## 📎 Sample Output
-
-*(You can add screenshots here later, or describe output visuals briefly)*
-
----
-
-## ✅ Status
-✅ Project Completed  
-📂 Next Steps (Optional): Add dashboards in Power BI or Tableau
